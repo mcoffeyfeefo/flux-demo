@@ -1,0 +1,2 @@
+docker run --name demo -p 8080:8080 -i demo
+docker rm -f demo

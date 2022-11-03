@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "name": "shells",
+      "amountPerBox": 6,
+      "weightPerBox": 30
+    },
+    {
+      "name": "rations",
+      "amountPerBox": 40,
+      "weightPerBox": 20
+    },
+    {
+      "name": "parachutes",
+      "amountPerBox": 2,
+      "weightPerBox": 15
+    }
+  ]
+}

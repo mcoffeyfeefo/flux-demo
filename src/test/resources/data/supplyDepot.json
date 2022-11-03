@@ -1,0 +1,16 @@
+{
+  "supplies": [
+    {
+      "name": "rations",
+      "numberOfBoxes": 300
+    },
+    {
+      "name": "shells",
+      "numberOfBoxes": 20
+    },
+    {
+      "name": "parachutes",
+      "numberOfBoxes": 0
+    }
+  ]
+}
